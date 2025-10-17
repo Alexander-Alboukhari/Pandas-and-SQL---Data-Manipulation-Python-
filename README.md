@@ -1,4 +1,3 @@
-# Pandas-and-SQL---Data-Manipulation-Python-
 #  Northwind2020 SQL Analysis
 
 This project uses the **Northwind2020** database to explore sales, customers, and products.  
